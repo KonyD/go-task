@@ -8,7 +8,7 @@ CLI task manager written in go.
 + `list`   Lists all of your commands.
 
 **Flags:**
-`-h`, `--help`   help for task
+`-h`, `--help`   help for go-task
 
 **Building the project:**
 ```bash
